@@ -10,4 +10,12 @@ public class Main
     {
         System.out.println("PLEASE PLEASE PLEASE WORK");
     }
+
+    public void Testing()
+    {
+        if(1==0)
+        {
+            System.out.println("Impossible!");
+        }
+    }
 }
