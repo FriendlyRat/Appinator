@@ -8,6 +8,6 @@ public class Main
 {
     public static void main(String[] args)
     {
-        System.out.println("Your mom!");
+        System.out.println("PLEASE PLEASE PLEASE WORK");
     }
 }
