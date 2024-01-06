@@ -8,14 +8,6 @@ public class Main
 {
     public static void main(String[] args)
     {
-        System.out.println("PLEASE PLEASE PLEASE WORK");
-    }
-
-    public void Testing()
-    {
-        if(1==0)
-        {
-            System.out.println("Impossible!");
-        }
+        System.out.println("Hello, World!");
     }
 }
